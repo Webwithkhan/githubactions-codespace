@@ -1,0 +1,25 @@
+{
+  "name": "githubactions-codespace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "echo 'Build step not defined yet'",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webwithkhan/githubactions-codespace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webwithkhan/githubactions-codespace/issues"
+  },
+  "homepage": "https://github.com/Webwithkhan/githubactions-codespace#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
